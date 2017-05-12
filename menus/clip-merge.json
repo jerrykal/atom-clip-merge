@@ -1,0 +1,39 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Clip Merge",
+        "submenu": [
+          {
+            "label": "Copy",
+            "command": "clip-merge:copy"
+          },
+          {
+            "label": "Cut",
+            "command": "clip-merge:cut"
+          }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Clip Merge",
+          "submenu": [
+            {
+              "label": "Copy",
+              "command": "clip-merge:copy"
+            },
+            {
+              "label": "Cut",
+              "command": "clip-merge:cut"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "clip-merge",
+  "main": "./lib/clip-merge",
+  "version": "0.0.0",
+  "description": "Merge the copied data with the current clipboard content.",
+  "keywords": [
+    "clipboard",
+    "copy",
+    "cut",
+    "merge"
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "clip-merge:copy",
+      "clip-merge:cut"
+    ]
+  },
+  "repository": "https://github.com/ooJerryLeeoo/atom-clip-merge",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

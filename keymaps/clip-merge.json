@@ -1,0 +1,11 @@
+{
+  ".platform-darwin atom-text-editor": {
+    "shift-cmd-C": "clip-merge:copy",
+    "shift-cmd-X": "clip-merge:cut"
+  },
+
+  ".platform-win32 atom-text-editor, .platform-linux  atom-text-editor": {
+    "ctrl-alt-C": "clip-merge:copy",
+    "ctrl-alt-X": "clip-merge:cut"
+  }
+}
