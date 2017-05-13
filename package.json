@@ -20,5 +20,37 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "configSchema": {
+    "copyLineWhenNoSelection": {
+      "order": 1,
+      "title": "Copy line when no selection",
+      "description": "Copy/Cut the cursor line when no text selected.",
+      "type": "boolean",
+      "default": true
+    },
+    "audio": {
+      "order": 2,
+      "title": "Audio",
+      "type": "object",
+      "properties": {
+        "playAudio": {
+          "order": 1,
+          "title": "Play audio",
+          "description": "Play clip-merge audio when copy/cut.",
+          "type": "boolean",
+          "default": true
+        },
+        "audioVolume": {
+          "order": 2,
+          "title": "Volume",
+          "description": "Volume of the clip-merge audio.",
+          "type": "number",
+          "minimum": 0.0,
+          "maximum": 1.0,
+          "default": 0.5
+        }
+      }
+    }
+  }
 }
