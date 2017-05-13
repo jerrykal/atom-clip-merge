@@ -46,7 +46,7 @@ Cheers :beers:
 * `Play audio` :  `true` - Play clip-merge audio when copy/cut.  
 * `Volume` :  `0.5` - Volume of the clip-merge audio.
 
-#### notification
+#### Notification
 
 * `Enable notification` :  `true` - Enable notification when copy/cut.  
 * `Clip-Merge copy notification content` :  `Clip-Merge: Copied !!` - Notification content of `clip-merge:copy`.  
