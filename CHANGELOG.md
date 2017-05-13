@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+* Just update README.md
+
 ## 0.1.0 - Initial Release
 
 * :sparkles: Add `clip-merge:copy` and `clip-merge:cut` commands
