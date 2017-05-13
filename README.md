@@ -2,6 +2,8 @@
 
 Merge the copied data with the current clipboard content.
 
+<p align="center"><img src="https://raw.githubusercontent.com/ooJerryLeeoo/atom-clip-merge/master/assets/clip-merge.gif" alt="clip-merge" /></p>
+
 ## :checkered_flag: Let's Jump Right In
 
 ### :inbox_tray: Installation
