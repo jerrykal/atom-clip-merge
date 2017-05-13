@@ -2,5 +2,6 @@
 
 ## 0.1.0 - Initial Release
 
-* Every feature added
-* Every bug fixed
+* :sparkles: Add `clip-merge:copy` and `clip-merge:cut` commands
+* :sparkles: Add `clip-merge` audio
+* :sparkles: Add config options
