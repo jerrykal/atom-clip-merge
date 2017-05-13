@@ -29,8 +29,8 @@ Cheers :beers:
 
 #### Commands
 
-* `clip-merg:copy`: Merge the copied data with the current clipboard content.
-* `clip-merg:cut`: Merge the copied data with the current clipboard content **and delete selection**.
+* `clip-merg:copy` :  Merge the copied data with the current clipboard content.
+* `clip-merg:cut` :  Merge the copied data with the current clipboard content **and delete selection**.
 
 #### Keymap
 
@@ -41,12 +41,18 @@ Cheers :beers:
 
 ### :wrench: Config
 
-* `Copy line when no selection`: `true` - Copy/Cut the cursor line when no text selected.
+* `Copy line when no selection` :  `true` - Copy/Cut the cursor line when no text selected.
 
 #### Audio
 
-* `Play audio`: `true` - Play clip-merge audio when copy/cut.  
-* `Volume`: `0.5` - Volume of the clip-merge audio.
+* `Play audio` :  `true` - Play clip-merge audio when copy/cut.  
+* `Volume` :  `0.5` - Volume of the clip-merge audio.
+
+#### notification
+
+* `Enable notification` :  `true` - Enable notification when copy/cut.  
+* `Clip-Merge copy notification content` :  `Clip-Merge: Copied !!` - Notification content of `clip-merge:copy`.  
+* `Clip-Merge cut notification content` :  `Clip-Merge: Copied !!` - Notification content of `clip-merge:cut`.
 
 ## :page_facing_up: License
 

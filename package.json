@@ -51,6 +51,34 @@
           "default": 0.5
         }
       }
+    },
+    "notification": {
+      "order": 3,
+      "title": "Notification",
+      "type": "object",
+      "properties": {
+        "enableNotification": {
+          "order": 1,
+          "title": "Enable notification",
+          "description": "Enable notification when copy/cut.",
+          "type": "boolean",
+          "default": true
+        },
+        "clipMergeCopyNotificationContent": {
+          "order": 2,
+          "title": "Clip-Merge copy notification content",
+          "description": "Notification content of `clip-merge:copy`.",
+          "type": "string",
+          "default": "Clip-Merge: Copied !!"
+        },
+        "clipMergeCutNotificationContent": {
+          "order": 3,
+          "title": "Clip-Merge cut notification content",
+          "description": "Notification content of `clip-merge:cut`.",
+          "type": "string",
+          "default": "Clip-Merge: Copied !!"
+        }
+      }
     }
   }
 }
