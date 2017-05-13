@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.3
+
+* Fix weird README.md
+
 ## 0.1.2
 
 * :sparkles: New feature - Clip-Merge notification
