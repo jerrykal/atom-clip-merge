@@ -1,10 +1,10 @@
-# atom-clip-merge
-
-Merge the copied data with the current clipboard content.
+<h1 id="atom-clip-merge"><p align="center">atom-clip-merge</p></h1>
 
 <p align="center"><img src="https://raw.githubusercontent.com/ooJerryLeeoo/atom-clip-merge/master/assets/clip-merge.gif" alt="clip-merge" /></p>
 
 <p align="center"><a href="https://atom.io/packages/clip-merge"><img src="https://img.shields.io/apm/v/clip-merge.svg?style=flat-square" alt="apm" /></a> <a href="https://atom.io/packages/clip-merge"><img src="https://img.shields.io/apm/dm/clip-merge.svg?style=flat-square" alt="apm" /></a>  <a href="https://github.com/ooJerryLeeoo/clip-merge/blob/master/LICENSE.md"><img src="https://img.shields.io/apm/l/clip-merge.svg?style=flat-square" alt="apm" /></a></p>
+
+<p align="center">Merge the copied data with the current clipboard content.</p>
 
 ## :checkered_flag: Let's Jump Right In
 
