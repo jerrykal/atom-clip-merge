@@ -39,8 +39,6 @@ Cheers :beers:
 
 ### :wrench: Config
 
-* `Copy line when no selection` :  `true` - Copy/Cut the cursor line when no text selected.
-
 #### Audio
 
 * `Play audio` :  `true` - Play clip-merge audio when copy/cut.  
@@ -49,8 +47,6 @@ Cheers :beers:
 #### Notification
 
 * `Enable notification` :  `true` - Enable notification when copy/cut.  
-* `Clip-Merge copy notification content` :  `Clip-Merge: Copied !!` - Notification content of `clip-merge:copy`.  
-* `Clip-Merge cut notification content` :  `Clip-Merge: Copied !!` - Notification content of `clip-merge:cut`.
 
 ## :page_facing_up: License
 
