@@ -28,7 +28,12 @@ Cheers :beers:
 #### Commands
 
 * `clip-merg:copy` :  Merge the copied data with the current clipboard content.
+
+![clip-merge-copy](https://raw.githubusercontent.com/ooJerryLeeoo/atom-clip-merge/master/assets/clip-merge.gif)
+
 * `clip-merg:cut` :  Merge the copied data with the current clipboard content **and delete selection**.
+
+![clip-merge-cut](https://raw.githubusercontent.com/ooJerryLeeoo/atom-clip-merge/master/assets/clip-merge-cut.gif)
 
 #### Keymap
 
