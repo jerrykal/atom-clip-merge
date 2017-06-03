@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.4
+
+* :fire: Remove some config options
+
 ## 0.1.3
 
 * Fix weird README.md
